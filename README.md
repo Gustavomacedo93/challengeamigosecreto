@@ -24,6 +24,7 @@ O objetivo do projeto é praticar conceitos de **lógica de programação, manip
 ├── index.html
 ├── style.css
 ├── app.js
+├── ativos
 └── README.md
 
 📖 Aprendizados
